@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\bin\Debug\netcoreapp3.1\NaiChestoSreshtano.exe
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\bin\Debug\netcoreapp3.1\NaiChestoSreshtano.deps.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\bin\Debug\netcoreapp3.1\NaiChestoSreshtano.runtimeconfig.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\bin\Debug\netcoreapp3.1\NaiChestoSreshtano.runtimeconfig.dev.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\bin\Debug\netcoreapp3.1\NaiChestoSreshtano.dll
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\bin\Debug\netcoreapp3.1\NaiChestoSreshtano.pdb
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.AssemblyInfo.cs
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.dll
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.pdb
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\NaiChestoSreshtano\obj\Debug\netcoreapp3.1\NaiChestoSreshtano.genruntimeconfig.cache

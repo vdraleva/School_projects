@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\bin\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.exe
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\bin\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.deps.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\bin\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.runtimeconfig.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\bin\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.runtimeconfig.dev.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\bin\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.dll
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\bin\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.pdb
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.AssemblyInfo.cs
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.dll
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.pdb
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Preobrazuvane_Na_Masiv_V_Chislo\obj\Debug\netcoreapp3.1\Preobrazuvane_Na_Masiv_V_Chislo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Preobrazuvane_Na_Masiv_V_Chislo/1.0.0": {
+        "runtime": {
+          "Preobrazuvane_Na_Masiv_V_Chislo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Preobrazuvane_Na_Masiv_V_Chislo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
