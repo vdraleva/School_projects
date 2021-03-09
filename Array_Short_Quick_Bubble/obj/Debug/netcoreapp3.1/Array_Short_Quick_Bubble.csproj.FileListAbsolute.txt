@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\bin\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.exe
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\bin\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.deps.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\bin\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.runtimeconfig.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\bin\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.runtimeconfig.dev.json
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\bin\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.dll
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\bin\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.pdb
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.AssemblyInfo.cs
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.dll
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.pdb
+C:\Users\User\source\repos\Array_Short_Quick_Bubble\Array_Short_Quick_Bubble\obj\Debug\netcoreapp3.1\Array_Short_Quick_Bubble.genruntimeconfig.cache
