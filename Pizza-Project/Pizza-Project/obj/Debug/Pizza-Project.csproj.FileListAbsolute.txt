@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\bin\Debug\Pizza-Project.exe.config
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\bin\Debug\Pizza-Project.exe
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\bin\Debug\Pizza-Project.pdb
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza-Project.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza_Project.Form1.resources
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza-Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza-Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza-Project.exe
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\Pizza-Project.pdb
+C:\Users\User\source\repos\Pizza-Project\Pizza-Project\obj\Debug\FormThankYou_1.FormThankYou.resources
