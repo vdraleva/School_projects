@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StackTasks\StackTasks\bin\Debug\StackTasks.exe.config
+C:\Users\User\source\repos\StackTasks\StackTasks\bin\Debug\StackTasks.exe
+C:\Users\User\source\repos\StackTasks\StackTasks\bin\Debug\StackTasks.pdb
+C:\Users\User\source\repos\StackTasks\StackTasks\obj\Debug\StackTasks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StackTasks\StackTasks\obj\Debug\StackTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StackTasks\StackTasks\obj\Debug\StackTasks.exe
+C:\Users\User\source\repos\StackTasks\StackTasks\obj\Debug\StackTasks.pdb
