@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ListTasks\ElementsFromListAreDiff\bin\Debug\ElementsFromListAreDiff.exe.config
+C:\Users\User\source\repos\ListTasks\ElementsFromListAreDiff\bin\Debug\ElementsFromListAreDiff.exe
+C:\Users\User\source\repos\ListTasks\ElementsFromListAreDiff\bin\Debug\ElementsFromListAreDiff.pdb
+C:\Users\User\source\repos\ListTasks\ElementsFromListAreDiff\obj\Debug\ElementsFromListAreDiff.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListTasks\ElementsFromListAreDiff\obj\Debug\ElementsFromListAreDiff.exe
+C:\Users\User\source\repos\ListTasks\ElementsFromListAreDiff\obj\Debug\ElementsFromListAreDiff.pdb

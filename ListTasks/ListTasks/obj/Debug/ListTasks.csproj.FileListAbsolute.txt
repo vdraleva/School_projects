@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ListTasks\ListTasks\bin\Debug\ListTasks.exe.config
+C:\Users\User\source\repos\ListTasks\ListTasks\bin\Debug\ListTasks.exe
+C:\Users\User\source\repos\ListTasks\ListTasks\bin\Debug\ListTasks.pdb
+C:\Users\User\source\repos\ListTasks\ListTasks\obj\Debug\ListTasks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ListTasks\ListTasks\obj\Debug\ListTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListTasks\ListTasks\obj\Debug\ListTasks.exe
+C:\Users\User\source\repos\ListTasks\ListTasks\obj\Debug\ListTasks.pdb
