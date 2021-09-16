@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\GreedyAlgorithms.exe.config
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\GreedyAlgorithms.exe
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\bin\Debug\GreedyAlgorithms.pdb
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\GreedyAlgorithms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\GreedyAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\GreedyAlgorithms.exe
+C:\Users\User\source\repos\GreedyAlgorithms\GreedyAlgorithms\obj\Debug\GreedyAlgorithms.pdb
